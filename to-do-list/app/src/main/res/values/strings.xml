@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ToDo-Notify</string>
+
+    <string name="title">Enter a title</string>
+    <string name="priority">Priority: </string>
+    <array name="priorities">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </array>
+    <string name="complete">Complete</string>
+    <string name="details">Details</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="menu_delete">Delete</string>
+    <string name="sign_out">Sign out</string>
+
+    <!-- Notification Strings -->
+    <string name="notify">Notify</string>
+    <string name="reminder_title">What will you accomplish today?</string>
+    <string name="reminder_text">Check ToDo App for the things that you need to do today.  Make it
+    a productive day!</string>
+    <string name="channel_name">Primary</string>
+    <string name="channel_description">primary_channel</string>
+</resources>
